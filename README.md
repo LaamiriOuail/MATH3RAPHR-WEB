@@ -1,5 +1,7 @@
 # MATH3RAPHE-WEB
 
+[Watch the video on YouTube](https://www.youtube.com/watch?v=9m4kMCiYZgM)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
